@@ -2,9 +2,9 @@
 
 Modelling of monitor screen sizes and the distance you sit from them. A Jupyter notebook python program that uses adjustment of widgets to model different scenarios.
 
-Using toggle buttons selection is made of one of four different resolution 16:9 High Definition monitors. Using slider controls adjustments are made to the screen size and the distance from the monitor. 
-
 ![](widget_controls.png)
+
+Using toggle buttons selection is made of one of four different resolution 16:9 High Definition monitors. Using slider controls adjustments are made to the screen size and the distance from the monitor. 
 
 For example the following information is displayed when sitting 1 meter from a 28 inch Ultra High Definition monitor: 
 
