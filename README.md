@@ -13,10 +13,10 @@ For example the following information is displayed when sitting 1 meter from a 2
     Vertical Pixels: 1080
     Screen Size: 28in.
     Screen Size: 71.1cm
-    Width of Screen: 62.1cm
-    Height of Screen: 34.7cm
+    Width of Screen: 62.0cm
+    Height of Screen: 34.9cm
     Screen distance: 100cm
-    Viewing Angle: 34.5°
+    Viewing Angle: 34.4°
     Pixels per degree: 55.7
     Distance to screen edge: 104.7cm
     Difference: Centre to Edge: 4.7cm
@@ -38,5 +38,3 @@ With Ubuntu 18.04.3 LTS the apt repository loads Jupyter with the version of the
 With Jupyter installation via PYPI in a virtual environment then pip loads Jupyter with the version of the notebook server: `6.0.1`, where `print(ipywidgets.version_info)` returns: `(7, 5, 1, 'final', 0)` 
 
 Be aware that there are some differences in widget behaviour between versions. For example see the instantiation of the Slider widgets.
-
-
