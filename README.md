@@ -38,3 +38,7 @@ With Ubuntu 18.04.3 LTS the apt repository loads Jupyter with the version of the
 With Jupyter installation via PYPI in a virtual environment then pip loads Jupyter with the version of the notebook server: `6.0.1`, where `print(ipywidgets.version_info)` returns: `(7, 5, 1, 'final', 0)` 
 
 Be aware that there are some differences in widget behaviour between versions. Please refer to the changelog: https://ipywidgets.readthedocs.io/en/latest/changelog.html
+
+## Updates.
+
+2019-10-03. Corrected calulations to use math.atan() function.
