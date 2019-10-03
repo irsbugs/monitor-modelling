@@ -41,4 +41,4 @@ Be aware that there are some differences in widget behaviour between versions. P
 
 ## Updates.
 
-2019-10-03. Corrected calulations by using math.atan() function.
+2019-10-03. Improve calulations by using math.atan() and math.hypot() functions.
